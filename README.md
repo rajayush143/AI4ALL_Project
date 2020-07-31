@@ -17,3 +17,5 @@ Our project:
     - Then, we stitched the images back together and tinted each safe zone with green and each unsafe zone with red
   
 Our final image predictions are in the repository along with the final code and helper functions.
+
+Please take a look at `final_project.ipynb`.
