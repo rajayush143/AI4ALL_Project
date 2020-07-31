@@ -1,7 +1,9 @@
 # AI4ALL_Code
 
 7/30/2020
+
 Ayush Raj
+
 Mia Chen
 
 
