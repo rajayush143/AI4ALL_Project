@@ -1,4 +1,4 @@
-# AI4ALL_Code
+# AI4ALL_Project
 
 7/30/2020
 
