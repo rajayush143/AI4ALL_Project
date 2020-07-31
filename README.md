@@ -1,4 +1,10 @@
 # AI4ALL_Code
+
+7/30/2020
+Ayush Raj
+Mia Chen
+
+
 Our project:
 
 1) Cropped large satellite images to 300 by 300 images
